@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/add.png</file>
+        <file>resources/audio/delete.wav</file>
+        <file>resources/images/delete.png</file>
+        <file>resources/images/green.png</file>
+        <file>resources/images/help.png</file>
+        <file>resources/images/info.png</file>
+        <file>resources/images/load.png</file>
+        <file>resources/images/red.png</file>
+        <file>resources/images/save.png</file>
+        <file>resources/images/search.png</file>
+        <file>resources/images/select.png</file>
+        <file>resources/audio/insert.wav</file>
+        <file>resources/audio/insert2.wav</file>
+        <file>resources/audio/search.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,64 @@
+{
+    "infermieri": [
+        {
+            "cognome": "tara",
+            "eta": 26,
+            "mansione": "infermiere",
+            "mese": "febbraio",
+            "n_interventi": 15,
+            "nome": "teresa",
+            "stipendio": 1600
+        },
+        {
+            "cognome": "tara",
+            "eta": 26,
+            "mansione": "infermiere",
+            "mese": "aprile",
+            "n_interventi": 16,
+            "nome": "teresa",
+            "stipendio": 1600
+        }
+    ],
+    "medici": [
+        {
+            "cognome": "mega",
+            "eta": 45,
+            "mansione": "medico",
+            "mese": "gennaio",
+            "n_morti": 13,
+            "n_salvati": 30,
+            "nome": "marco",
+            "stipendio": 2000
+        },
+        {
+            "cognome": "terro",
+            "eta": 32,
+            "mansione": "medico",
+            "mese": "marzo",
+            "n_morti": 15,
+            "n_salvati": 20,
+            "nome": "serte",
+            "stipendio": 1300
+        }
+    ],
+    "tecnici": [
+        {
+            "cognome": "tarro",
+            "eta": 35,
+            "mansione": "tecnico",
+            "mese": "febbraio",
+            "n_interventi": 17,
+            "nome": "davide",
+            "stipendio": 2100
+        },
+        {
+            "cognome": "tarro",
+            "eta": 35,
+            "mansione": "tecnico",
+            "mese": "marzo",
+            "n_interventi": 15,
+            "nome": "davide",
+            "stipendio": 2100
+        }
+    ]
+}
